@@ -1,8 +1,8 @@
-> **Statut : proposition** — en cours d'adoption par le Gérant Monsieur Chieck JABOU au 22 novembre 2026.
+> **Statut : adopté** — par le Gérant Monsieur Chieck JABOU le 22 novembre 2026.
 >
 > Ce document fait partie de la vague d'arbitrages opérationnels des 6 fonctions enrichies (F03, F06, F07, F08, F10, F11). Il étend la doctrine tarifaire adoptée dans MC-CALIBRAGE-TARIFAIRE-VAGUE-V3-V2 aux prestations P1 à P16 de la fonction correspondante, fixe les badges N-min, standardise les livrables L1 à L21, codifie les protocoles et spécifie les modules CORE Edge associés.
 >
-> Les tarifs présentés sont soumis à adoption formelle. Toute contractualisation en est dépendante.
+> Les tarifs présentés sont opposables ; toute remise hors règle publique passe par la direction.
 
 ---
 
